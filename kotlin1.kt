@@ -54,4 +54,9 @@ fun main(args: Array<String>) {
    println("example 1 : " + st1 + st2)
    println("example 2 : " + "hello " + "kotlin")
    
+   val rawstr = """this is 👇
+   				raw string"""
+   println("\n"+rawstr)
+                 
+   
 }
